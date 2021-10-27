@@ -1,5 +1,5 @@
 #title {
-	color: green;
+	color: blue;
 }
 
 h1 {
@@ -8,7 +8,7 @@ h1 {
 }
 
 h1 {
-	color: blue;
+	color: green;
 }
 
 h2 {
@@ -16,13 +16,20 @@ h2 {
 }
 
 .content {
+	padding: 30px;
 	font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer {
+	font-size: 20px;
+	width: 100%;
 	text-align: center;
 }
 
 .page {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+	width: 10em;
 }
